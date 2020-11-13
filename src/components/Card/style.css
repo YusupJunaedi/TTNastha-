@@ -1,0 +1,30 @@
+.img-placeholder {
+    width: 1vh;
+}
+
+.logo-place {
+    width: 2vh;
+    height: 2vh;
+}
+
+.text-meeting {
+    margin-bottom: -2vh;
+}
+
+.logo-user {
+    width: 3vh;
+    height: 3vh;
+    margin-right: 1vh;
+}
+
+.text-name {
+    font-size: 1.5vh;
+}
+
+.text-place {
+    font-weight: bold;
+}
+
+.bg-note {
+    background-color: RGBA(0, 0, 0, 0.03);
+}
