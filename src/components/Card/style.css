@@ -1,5 +1,4 @@
 .container-main {
-    background-color: #c3a9ff;
     height: 100vh;
     display: flex;
     flex-direction: row;
@@ -36,5 +35,11 @@
 }
 
 .bg-note {
+    height: 33vh;
     background-color: RGBA(0, 0, 0, 0.03);
+    overflow: auto;
+}
+
+.mh {
+    height: 85vh;
 }
